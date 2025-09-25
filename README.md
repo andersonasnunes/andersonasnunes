@@ -5,10 +5,10 @@
 ## Sobre mim 🔍
 **Estudante de Engenharia de Software em transição de carreira.** 
 
-Sou Professor de Biologia, Química e Matemática e apaixonado pelo mundo da
+Sou formado em Ciências Biológicas, Professor de Biologia, Química e Matemática e há pouco tempo resolvi mudar de carreira e adentrar no mundo da
 ``
 programação ``
-**e meu principal objetivo é poder construir uma carreria sólida no mundo da programação.** 
+. Um passo importante em busca de um sonho antigo que exige coragem, dedicação e principalmente ✨<resiliência>✨.  
 
 - **Conecte-se comigo** 🔌
 
