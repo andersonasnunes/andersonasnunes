@@ -8,7 +8,7 @@
 Sou Professor de Biologia, Química e Matemática e apaixonado pelo mundo da
 ``
 programação ``
-e meu principal objetivo é poder construir uma carreria sólida no mundo da programação, mesmo aos 40 anos de idade. 
+**e meu principal objetivo é poder construir uma carreria sólida no mundo da programação.** 
 
 - **Conecte-se comigo** 🔌
 
