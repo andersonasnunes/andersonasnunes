@@ -5,10 +5,10 @@
 ## Sobre mim 🔍
 **Estudante de Engenharia de Software em transição de carreira.** 
 
-Sou formado em Ciências Biológicas, Professor de Biologia, Química e Matemática e há pouco tempo resolvi mudar de carreira e adentrar no mundo da
+Da sala de aula para os
 ``
-programação ``
-. Um passo importante em busca de um sonho antigo que exige coragem, dedicação e principalmente ✨<resiliência>✨.  
+{codigos} ``
+. Um professor dando um passo importante em busca de um sonho antigo que exige coragem, dedicação e principalmente ✨<resiliência>✨ que é a transição de carreira para se tornar programador.  
 
 - **Conecte-se comigo** 🔌
 
