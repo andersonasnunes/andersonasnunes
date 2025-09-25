@@ -1,7 +1,7 @@
 # Olá! 👋👋 Bem vindo(a) ao perfil de Anderson Nunes 
 
 ## Sobre mim 🔍
-Estudante de Engenharia de Software em transição de carreira. 
+**Estudante de Engenharia de Software em transição de carreira.** 
 
 Sou Professor de Biologia, Química e Matemática e apaixonado pelo mundo da
 ``
