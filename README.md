@@ -7,8 +7,7 @@
 
 Sou Professor de Biologia, Química e Matemática e apaixonado pelo mundo da
 ``
-***programação*** 
-``
+programação ``
 e meu principal objetivo é poder construir uma carreria sólida no mundo da programação, mesmo aos 40 anos de idade. 
 
 - **Conecte-se comigo** 🔌
@@ -25,6 +24,7 @@ e meu principal objetivo é poder construir uma carreria sólida no mundo da pro
 ## Banco de Dados 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ## GitHub Stats 📊
