@@ -8,7 +8,7 @@
 Da sala de aula para os
 ``
 {codigos} ``
-. Um professor dando um passo importante em busca de um sonho antigo que exige coragem, dedicação e principalmente ✨<resiliência>✨ que é a transição de carreira para se tornar programador.  
+. Um professor dando um passo importante em busca de um sonho antigo que exige coragem, dedicação e principalmente ✨<resiliência>✨ que é a transição de carreira para me tornar programador.  
 
 - **Conecte-se comigo** 🔌
 
