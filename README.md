@@ -8,7 +8,9 @@
 Da sala de aula para os
 ``
 {codigos} ``
-. Um professor dando um passo importante em busca de um sonho antigo que exige coragem, dedicação e principalmente ✨<resiliência>✨ que é a transição de carreira para me tornar programador.  
+. Um professor dando um passo importante em busca de um sonho antigo que exige coragem, dedicação e principalmente ✨<resiliência>✨ que é a transição de carreira para me tornar programador.
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 - **Conecte-se comigo** 🔌
 
