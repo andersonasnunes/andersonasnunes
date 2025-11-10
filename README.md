@@ -3,12 +3,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## Sobre mim 🔍
-**Estudante de Engenharia de Software em transição de carreira.** 
+**Estudante de Engenharia de Software.** 
 
 Da sala de aula para os
-``
-{codigos} ``
-. Um professor dando um passo importante em busca de um sonho antigo que exige coragem, dedicação e principalmente ✨<resiliência>✨ que é a transição de carreira para me tornar programador.
+``<codigos>``
+
+Sou um profissional em transição de carreira que iniciou sua jornada na educação, movido pela paixão de ensinar, aprender e transformar ideias complexas em conceitos simples e acessíveis.
+
+Com o tempo, minha curiosidade por tecnologia e lógica me levou a descobrir um novo caminho: a programação. Desde então, venho unindo minha experiência como professor às possibilidades do mundo tecnológico.
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
