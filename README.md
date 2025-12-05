@@ -8,9 +8,17 @@
 Da sala de aula para os
 ``<codigos>``
 
-Sou um profissional em transição de carreira que iniciou sua jornada na educação, movido pela paixão de ensinar, aprender e transformar ideias complexas em conceitos simples e acessíveis.
+Sou um profissional em transição de carreira: comecei minha jornada como professor, apaixonado por ensinar, aprender e resolver problemas complexos de forma simples.
+Com o tempo, percebi que minha curiosidade por tecnologia e lógica poderia me levar ainda mais longe e foi assim que iniciei minha trajetória na programação.
 
-Com o tempo, minha curiosidade por tecnologia e lógica me levou a descobrir um novo caminho: a programação. Desde então, venho unindo minha experiência como professor às possibilidades do mundo tecnológico.
+Hoje, gostaria de aplicar na área de tecnologia as mesmas habilidades que desenvolvi em sala de aula:
+👨‍🏫 Didática para explicar e estruturar raciocínios.
+🧩 Pensamento lógico para resolver problemas.
+🤝 Empatia e comunicação para colaborar com times diversos.
+
+Atualmente, estudo Engenharia de Software, buscando unir meu background em educação com a criação de soluções tecnológicas que realmente façam a diferença.
+
+Acredito que aprender nunca tem um ponto final e é isso que me motiva todos os dias a crescer como desenvolvedor e como pessoa.
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
