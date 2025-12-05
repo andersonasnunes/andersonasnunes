@@ -11,10 +11,10 @@ Da sala de aula para os
 Sou um profissional em transição de carreira: comecei minha jornada como professor, apaixonado por ensinar, aprender e resolver problemas complexos de forma simples.
 Com o tempo, percebi que minha curiosidade por tecnologia e lógica poderia me levar ainda mais longe e foi assim que iniciei minha trajetória na programação.
 
-Hoje, gostaria de aplicar na área de tecnologia as mesmas habilidades que desenvolvi em sala de aula:
-👨‍🏫 Didática para explicar e estruturar raciocínios.
-🧩 Pensamento lógico para resolver problemas.
-🤝 Empatia e comunicação para colaborar com times diversos.
+Hoje, gostaria de aplicar na área de tecnologia as mesmas habilidades que desenvolvi em sala de aula:   
+👨‍🏫 Didática para explicar e estruturar raciocínios.  
+🧩 Pensamento lógico para resolver problemas.  
+🤝 Empatia e comunicação para colaborar com times diversos.  
 
 Atualmente, estudo Engenharia de Software, buscando unir meu background em educação com a criação de soluções tecnológicas que realmente façam a diferença.
 
