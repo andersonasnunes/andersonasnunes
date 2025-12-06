@@ -52,12 +52,6 @@ Acredito que aprender nunca tem um ponto final e é isso que me motiva todos os 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## ⚙️ GitHub Stats  
-
-| ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonasnunes&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonasnunes&layout=compact&theme=radical) |
-| --- | --- |
-
-
 ## Minhas Contribuições 🤝
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andersonasnunes&repo=dio-lab-open-source&bg_color=000&border_color=000&show_icons=true&icon_color=95A5A6&title_color=fff&text_color=FFF)](https://github.com/andersonasnunes/dio-lab-open-source)
