@@ -1,57 +1,45 @@
-# Olá! 👋👋 Bem vindo(a) ao perfil de Anderson Nunes 
+# Anderson Nunes
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+🎓 Estudante de **Engenharia de Software**  (2º Semestre)  
+🔄 Em transição de carreira da **Educação para a Tecnologia**
 
-## Sobre mim 🔍
-**Estudante de Engenharia de Software.** 
+Professor de formação, desenvolvedor em construção.  
 
-Da sala de aula para os
-``<codigos>``
+🚀 Sempre em evolução.
 
-Sou um profissional em transição de carreira: comecei minha jornada como professor, apaixonado por ensinar, aprender e resolver problemas complexos de forma simples.
-Com o tempo, percebi que minha curiosidade por tecnologia e lógica poderia me levar ainda mais longe e foi assim que iniciei minha trajetória na programação.
+---
 
-Hoje, gostaria de aplicar na área de tecnologia as mesmas habilidades que desenvolvi em sala de aula:   
-👨‍🏫 Didática para explicar e estruturar raciocínios.  
-🧩 Pensamento lógico para resolver problemas.  
-🤝 Empatia e comunicação para colaborar com times diversos.  
+## 🔌 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonasnunes/)
 
-Atualmente, estudo Engenharia de Software, buscando unir meu background em educação com a criação de soluções tecnológicas que realmente façam a diferença.
+---
 
-Acredito que aprender nunca tem um ponto final e é isso que me motiva todos os dias a crescer como desenvolvedor e como pessoa.
+## 💻 Stack
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+### Linguagens
+![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-555555?style=flat&logo=c%2B%2B&logoColor=00599C)
 
-- **Conecte-se comigo** 🔌
+### Web & Estilo
+![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat&logo=css3&logoColor=1572B6)
+![Markdown](https://img.shields.io/badge/Markdown-555555?style=flat&logo=markdown&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonasnunes/) 
+### Frameworks & Bibliotecas
+![Django](https://img.shields.io/badge/Django-555555?style=flat&logo=django&logoColor=092E20)
+![Flask](https://img.shields.io/badge/Flask-555555?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat&logo=node.js&logoColor=6DA55F)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-555555?style=flat&logo=sqlite&logoColor=003B57)
+![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat&logo=mongodb&logoColor=4EA94B)
+![MariaDB](https://img.shields.io/badge/MariaDB-555555?style=flat&logo=mariadb&logoColor=003545)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-555555?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-## Linguagem 📚
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-## Linguagem de Marcação e Estilo 🎨
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-
-## Bibliotecas e Frameworks 🧩
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-## Banco de Dados 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-## Ferramentas 🛠️
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## Minhas Contribuições 🤝
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andersonasnunes&repo=dio-lab-open-source&bg_color=000&border_color=000&show_icons=true&icon_color=95A5A6&title_color=fff&text_color=FFF)](https://github.com/andersonasnunes/dio-lab-open-source)
+---
