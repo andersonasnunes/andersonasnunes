@@ -20,6 +20,8 @@ Professor de formação, desenvolvedor em construção.
 ![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C%2B%2B-555555?style=flat&logo=c%2B%2B&logoColor=00599C)
+![PHP](https://img.shields.io/badge/PHP-555555?style=flat&logo=php&logoColor=777BB4)
+
 
 ### Web & Estilo
 ![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat&logo=html5&logoColor=E34F26)
@@ -30,6 +32,9 @@ Professor de formação, desenvolvedor em construção.
 ![Django](https://img.shields.io/badge/Django-555555?style=flat&logo=django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/Flask-555555?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat&logo=node.js&logoColor=6DA55F)
+![Laravel](https://img.shields.io/badge/Laravel-555555?style=flat&logo=laravel&logoColor=FF2D20)
+![Livewire](https://img.shields.io/badge/Livewire-555555?style=flat&logo=livewire&logoColor=FB70A9)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-555555?style=flat&logo=tailwind-css&logoColor=38BDF8)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat&logo=mysql&logoColor=4479A1)
@@ -40,6 +45,7 @@ Professor de formação, desenvolvedor em construção.
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-555555?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Laragon](https://img.shields.io/badge/Laragon-555555?style=flat&logo=laragon&logoColor=0E83CD)
 
 
 ---
