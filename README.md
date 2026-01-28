@@ -47,5 +47,9 @@ Professor de formação, desenvolvedor em construção.
 ![VS Code](https://img.shields.io/badge/VS%20Code-555555?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Laragon](https://img.shields.io/badge/Laragon-555555?style=flat&logo=laragon&logoColor=0E83CD)
 
+## 📊 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonasnunes&layout=compact&bg_color=000000&title_color=ffffff&text_color=9ca3af)
+
 
 ---
