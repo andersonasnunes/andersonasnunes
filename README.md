@@ -1,6 +1,6 @@
 # Anderson Nunes
 
-🎓 Estudante de **Engenharia de Software**  (2º Semestre)  
+🎓 **Engenhiro de Software**   
 🔄 Em transição de carreira da **Educação para a Tecnologia**
 
 Professor de formação, desenvolvedor em construção.  
