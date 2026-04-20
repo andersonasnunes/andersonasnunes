@@ -1,6 +1,6 @@
 # Anderson Nunes
 
-🎓 **Engenhiro de Software**  
+🎓 **Engenheiro de Software**  
 
 🔄 Em transição de carreira da **Educação para a Tecnologia**
 
